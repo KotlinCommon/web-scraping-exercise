@@ -1,0 +1,702 @@
+[
+  {
+    "title": "War, the Game",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/1/3bdbc0007c1f0867e5da79b67c6796b0-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/war-the-game",
+    "release_date": "May 13, 2014"
+  },
+  {
+    "title": "Redout: Space Assault",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/2/06c6e59dea82ab7b8fb4da2c9f6f43ac-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/redout-space-assault",
+    "release_date": "January 22, 2021"
+  },
+  {
+    "title": "MachiaVillain",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/2/280d6e82ad72803fcdcbc1bfffeb9702-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/machiavillain",
+    "release_date": "May 16, 2018"
+  },
+  {
+    "title": "Aragami 2",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/9/452950138264aecc4ec7f50deb273f4d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/aragami-2",
+    "release_date": "September 17, 2021"
+  },
+  {
+    "title": "Tower of Fantasy",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/4/fe00f3985985df36e63237fd16caff92-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/tower-of-fantasy",
+    "release_date": "August 10, 2022"
+  },
+  {
+    "title": "Lords of the Realm III",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/4/91445403d2b55dce8844e54fabebf198-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/lords-of-the-realm-iii",
+    "release_date": "March 17, 2004"
+  },
+  {
+    "title": "Strike Fighters: Project 1",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/7/2a1693e1a59dc785fcc1dc43f45ea8b4-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/strike-fighters-project-1",
+    "release_date": "October 27, 2002"
+  },
+  {
+    "title": "S.W.I.N.E.",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/7/97394c5c99caba4191038c3cc1d06d44-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/swine",
+    "release_date": "November 19, 2001"
+  },
+  {
+    "title": "Tennis Masters Series",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/3/42df4436bbf68fceb2664f410e3949d2-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/tennis-masters-series",
+    "release_date": "November 18, 2001"
+  },
+  {
+    "title": "Hoard",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/2/7598581e34dc0040408d04d633584953-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/hoard",
+    "release_date": "April 4, 2011"
+  },
+  {
+    "title": "Painkiller: Overdose",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/1/049fff3fc1302fab80e761698fef8428-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/painkiller-overdose",
+    "release_date": "October 26, 2007"
+  },
+  {
+    "title": "Dracula 3: The Path of the Dragon",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/3/2cd00fafb80ee0e4f4b4ec5974235e6b-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/dracula-3-the-path-of-the-dragon",
+    "release_date": "August 21, 2008"
+  },
+  {
+    "title": "Blacklight: Tango Down",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/6/7c16dbf89832cc068136ff58f69d41e1-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/blacklight-tango-down",
+    "release_date": "July 14, 2010"
+  },
+  {
+    "title": "Sherlock Holmes: The Devil's Daughter",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/8/3da4bb274e429267e86b4f3816e45c78-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/sherlock-holmes-the-devils-daughter",
+    "release_date": "June 10, 2016"
+  },
+  {
+    "title": "Metal Wolf Chaos XD",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/2/0057a7cd94fa0675f7545307600a1bd8-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/metal-wolf-chaos-xd",
+    "release_date": "August 6, 2019"
+  },
+  {
+    "title": "Star Wars Battlefront II",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/1/db06ba48575605f996497f3971f5d61c-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/star-wars-battlefront-ii",
+    "release_date": "November 17, 2017"
+  },
+  {
+    "title": "War for the Overworld",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/5/4166d726e4d91faf2cbcefac84a95829-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/war-for-the-overworld",
+    "release_date": "April 2, 2015"
+  },
+  {
+    "title": "Darkened Skye",
+    "meta_score": "65",
+    "img": "https://static.metacritic.com/images/products/games/6/d1250d69fd089fc21d73f78f7d476dff-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/darkened-skye",
+    "release_date": "January 27, 2002"
+  },
+  {
+    "title": "Danger Zone",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/ecab9fb371e969dccb114ee9f9d0fb1d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/danger-zone",
+    "release_date": "May 29, 2017"
+  },
+  {
+    "title": "Secret Files 2: Puritas Cordis",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/7264898923d7cb49142f16a1db2430c3-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/secret-files-2-puritas-cordis",
+    "release_date": "October 29, 2009"
+  },
+  {
+    "title": "Naval War: Arctic Circle",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/762e8dc4a63d4c88d30ae1f06042ebb5-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/naval-war-arctic-circle",
+    "release_date": "April 10, 2012"
+  },
+  {
+    "title": "ELEX II",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/54bf3d2050ae5710967b8e9e89984ab5-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/elex-ii",
+    "release_date": "March 1, 2022"
+  },
+  {
+    "title": "Defiance",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/a9268e9e25cb0f9f39559540a8498b49-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/defiance",
+    "release_date": "April 2, 2013"
+  },
+  {
+    "title": "Master of Orion 3",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/a6bbac694dae79ca8d0a4d40d6eb0f24-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/master-of-orion-3",
+    "release_date": "February 25, 2003"
+  },
+  {
+    "title": "Cargo! The Quest for Gravity",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/32e804a6ef90cd12f78b300e5560eecb-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/cargo!-the-quest-for-gravity",
+    "release_date": "April 21, 2011"
+  },
+  {
+    "title": "theHunter: Call of the Wild",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/a707848bda7043d2e90ed2e9a50cbed7-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/thehunter-call-of-the-wild",
+    "release_date": "February 16, 2017"
+  },
+  {
+    "title": "Heroes of Might and Magic IV: The Gathering Storm",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/fe94b79cca55c6094516a0df900a221d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/heroes-of-might-and-magic-iv-the-gathering-storm",
+    "release_date": "September 27, 2002"
+  },
+  {
+    "title": "Jagged Alliance 2: Unfinished Business",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/3/9f03d1899aa55da9ba4628d62b9ae65c-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/jagged-alliance-2-unfinished-business",
+    "release_date": "November 30, 2000"
+  },
+  {
+    "title": "Warhammer Age of Sigmar: Storm Ground",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/863935dede29944f0d349f74edd5cfaf-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/warhammer-age-of-sigmar-storm-ground",
+    "release_date": "May 27, 2021"
+  },
+  {
+    "title": "Ravaged",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/0462417830e2efd7724ee6ee143ed77e-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/ravaged",
+    "release_date": "October 17, 2012"
+  },
+  {
+    "title": "Oh...Sir!",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/fcc6f5e4768ab2aeff9f2a74db89d1c7-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/ohsir!",
+    "release_date": "October 25, 2016"
+  },
+  {
+    "title": "Blade Arcus from Shining: Battle Arena",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/36033fae28ac90ccc37b707e568f4b98-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/blade-arcus-from-shining-battle-arena",
+    "release_date": "July 28, 2016"
+  },
+  {
+    "title": "Apache: Air Assault",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/71b2870f86d8e6809d0538a2bacf7125-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/apache-air-assault",
+    "release_date": "November 19, 2010"
+  },
+  {
+    "title": "Stonefly",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/cd12a4a65155be58d952e9ea63e29c31-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/stonefly",
+    "release_date": "June 1, 2021"
+  },
+  {
+    "title": "Californium",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/10419ccedebe187161fa8b9161b0b847-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/californium",
+    "release_date": "February 17, 2016"
+  },
+  {
+    "title": "Legions of Steel",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/e629c85c82f3993a10f86dba3def42ae-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/legions-of-steel",
+    "release_date": "July 16, 2015"
+  },
+  {
+    "title": "Microsoft Flight",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/7/8659ba439413b2db517d7716465f15f3-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/microsoft-flight",
+    "release_date": "February 29, 2012"
+  },
+  {
+    "title": "YIIK: A Postmodern RPG",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/31d689f162604b820135bcf40f10ce6d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/yiik-a-postmodern-rpg",
+    "release_date": "January 17, 2019"
+  },
+  {
+    "title": "Albino Lullaby: Episode 1",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/6a128d84a4311cdf724b668109ce18f7-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/albino-lullaby-episode-1",
+    "release_date": "September 15, 2015"
+  },
+  {
+    "title": "Franchise Hockey Manager 3",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/556b22aa24ef28ce83813ac1a9ac47d5-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/franchise-hockey-manager-3",
+    "release_date": "October 31, 2016"
+  },
+  {
+    "title": "The Impossible Game",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/cfd4153b8b5f0ed85d8abb941c57a048-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-impossible-game",
+    "release_date": "May 8, 2014"
+  },
+  {
+    "title": "Farming Simulator 15",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/7/aab73c20c76c7e80a4943078959d959d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/farming-simulator-15",
+    "release_date": "October 30, 2014"
+  },
+  {
+    "title": "Treachery in Beatdown City",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/51d06eff3b82bac713ef0fe0d19e699f-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/treachery-in-beatdown-city",
+    "release_date": "March 30, 2020"
+  },
+  {
+    "title": "Xenon Racer",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/dde7449a3c5ce8852a6a5cc5202e9519-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/xenon-racer",
+    "release_date": "March 26, 2019"
+  },
+  {
+    "title": "The Silver Case",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/219f7538955a49a7180ced68afdc9aab-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-silver-case",
+    "release_date": "October 6, 2016"
+  },
+  {
+    "title": "Star Trek Away Team",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/ffed90c100f3365243652efce03d7bd0-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/star-trek-away-team",
+    "release_date": "March 19, 2001"
+  },
+  {
+    "title": "Heroes Chronicles: Conquest of the Underworld",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/bb50905353b6b6d19535e6b80c99e4fc-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/heroes-chronicles-conquest-of-the-underworld",
+    "release_date": "September 27, 2000"
+  },
+  {
+    "title": "The Franz Kafka Videogame",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/30e9e3028392030685b674d90ea80a80-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-franz-kafka-videogame",
+    "release_date": "April 6, 2017"
+  },
+  {
+    "title": "Rise & Fall: Civilizations at War",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/22291c8886c6b46fdf5ced6ae635fd1e-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/rise-fall-civilizations-at-war",
+    "release_date": "June 12, 2006"
+  },
+  {
+    "title": "Way of the Hunter",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/726f521f92174246269e450605eeda06-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/way-of-the-hunter",
+    "release_date": "August 16, 2022"
+  },
+  {
+    "title": "Painkiller: Hell & Damnation",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/5b22984bbe4ce91b1e2bd4026d2e3d6b-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/painkiller-hell-damnation",
+    "release_date": "October 31, 2012"
+  },
+  {
+    "title": "Silent Hill: Homecoming",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/dfdde2a024bba97f57ace4bb654f90f0-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/silent-hill-homecoming",
+    "release_date": "November 6, 2008"
+  },
+  {
+    "title": "WRC 4: FIA World Rally Championship",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/7c319bff90ea1ba6931abdfbb3b24a44-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/wrc-4-fia-world-rally-championship",
+    "release_date": "October 25, 2013"
+  },
+  {
+    "title": "Game of Thrones: A Telltale Games Series",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/3/7b6feb9537a508af8d6deb69a2615725-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/game-of-thrones-a-telltale-games-series",
+    "release_date": "November 17, 2015"
+  },
+  {
+    "title": "Alien Breed: Impact",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/59756687d8e85ec61efad7f9f39305a6-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/alien-breed-impact",
+    "release_date": "June 3, 2010"
+  },
+  {
+    "title": "Attack on Pearl Harbor",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/f95df00b4875ee5cb5e82497cbb1d177-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/attack-on-pearl-harbor",
+    "release_date": "August 6, 2007"
+  },
+  {
+    "title": "Warrior Kings: Battles",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/edfb43db2f9289571384002002b4cef7-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/warrior-kings-battles",
+    "release_date": "September 30, 2003"
+  },
+  {
+    "title": "An Airport for Aliens Currently Run by Dogs",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/9ea6d59b5b8338f9abeb8bb70060581f-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/an-airport-for-aliens-currently-run-by-dogs",
+    "release_date": "May 25, 2021"
+  },
+  {
+    "title": "Rise & Shine",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/882d9e2e77e9ce6d2ab0d114d426c4eb-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/rise-shine",
+    "release_date": "January 13, 2017"
+  },
+  {
+    "title": "The Matrix: Path of Neo",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/c4e652025669848638061ea9ecea85cd-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-matrix-path-of-neo",
+    "release_date": "November 7, 2005"
+  },
+  {
+    "title": "Serial Cleaner",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/d8ca57e76698a6b5df6a7842bbf297f8-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/serial-cleaner",
+    "release_date": "July 17, 2017"
+  },
+  {
+    "title": "Fire: Ungh's Quest",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/177c902835e3f2534bb2dea677784cfe-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/fire-unghs-quest",
+    "release_date": "April 9, 2015"
+  },
+  {
+    "title": "Whispering Willows",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/3/1c1e9f4d16249b7d7d1b047302880244-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/whispering-willows",
+    "release_date": "July 9, 2014"
+  },
+  {
+    "title": "Chronology",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/622d50f39f32fd40dd3c2ba09b0a5d06-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/chronology",
+    "release_date": "May 12, 2014"
+  },
+  {
+    "title": "IGI 2: Covert Strike",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/88e09f5088af28b91d6561cad6da515b-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/igi-2-covert-strike",
+    "release_date": "March 3, 2003"
+  },
+  {
+    "title": "NFL Head Coach",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/14ed1525c3a59836f40c3bf739cb0d67-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/nfl-head-coach",
+    "release_date": "June 19, 2006"
+  },
+  {
+    "title": "P-O-L-L-E-N",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/889f5f8dcb8cd0a8562d03629c4ec3f3-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/p-o-l-l-e-n",
+    "release_date": "April 19, 2016"
+  },
+  {
+    "title": "Command & Conquer: Red Alert 3 - Uprising",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/d2dc8b8f62df635a9a017e7e02a0cd0b-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/command-conquer-red-alert-3---uprising",
+    "release_date": "March 12, 2009"
+  },
+  {
+    "title": "Phantom Breaker: Battle Grounds",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/b3a5b67b5cf48cc147c897a9b374b483-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/phantom-breaker-battle-grounds",
+    "release_date": "January 23, 2015"
+  },
+  {
+    "title": "The Mighty Quest for Epic Loot",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/5f6a7278769db80c508819fdeb003ded-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-mighty-quest-for-epic-loot",
+    "release_date": "June 10, 2013"
+  },
+  {
+    "title": "Pirates of the Caribbean",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/eb8c6cd647f2100f465dbd12eae556e9-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/pirates-of-the-caribbean",
+    "release_date": "June 30, 2003"
+  },
+  {
+    "title": "World War II: Prisoner of War",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/d02f292d30eb7fa55d5a0d959e396d82-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/world-war-ii-prisoner-of-war",
+    "release_date": "September 30, 2002"
+  },
+  {
+    "title": "Ancestors: The Humankind Odyssey",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/72fef8edf2ad59a621135aecc46d647c-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/ancestors-the-humankind-odyssey",
+    "release_date": "August 27, 2019"
+  },
+  {
+    "title": "Dusty Revenge",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/a3237901d28fa0726f9309f42e426575-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/dusty-revenge",
+    "release_date": "July 8, 2013"
+  },
+  {
+    "title": "Guns of Icarus Online",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/0db2ea7a1beec5de2ba1c9c8a1daa621-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/guns-of-icarus-online",
+    "release_date": "October 29, 2012"
+  },
+  {
+    "title": "Serious Sam: The Random Encounter",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/7/cd6d80b4a26f2d3a2f3d5a23c88ee592-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/serious-sam-the-random-encounter",
+    "release_date": "October 24, 2011"
+  },
+  {
+    "title": "Hammerting",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/3d6393bf6533c63bb10cc7592dcca5ee-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/hammerting",
+    "release_date": "November 16, 2021"
+  },
+  {
+    "title": "Pagan Online",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/3865aee7fc971e1f5d9d33f83a7fd182-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/pagan-online",
+    "release_date": "April 17, 2019"
+  },
+  {
+    "title": "Red Faction II",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/a921c64bee6fd57c9f032afc0e63939f-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/red-faction-ii",
+    "release_date": "April 7, 2003"
+  },
+  {
+    "title": "UEFA Euro 2012",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/0d5a0ecc3ea67c84c7ff9c281f678cca-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/uefa-euro-2012",
+    "release_date": "April 24, 2012"
+  },
+  {
+    "title": "Murder in the Abbey",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/7f8e5283fb3df1184dbba86137d0b997-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/murder-in-the-abbey",
+    "release_date": "August 26, 2008"
+  },
+  {
+    "title": "Corruption 2029",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/bd15ee3387f4ff1bcbb56e679c316cc1-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/corruption-2029",
+    "release_date": "February 17, 2020"
+  },
+  {
+    "title": "The Legend of Korra",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/220bd331ffb10156d8b5d2a2e1d82a04-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-legend-of-korra",
+    "release_date": "October 21, 2014"
+  },
+  {
+    "title": "Pressure",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/b5ff0c1195cd94689a73339816c4d836-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/pressure",
+    "release_date": "March 26, 2013"
+  },
+  {
+    "title": "SimCity",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/0acc084e86917864b6de4dbabc707646-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/simcity",
+    "release_date": "March 5, 2013"
+  },
+  {
+    "title": "Gods Will Be Watching",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/b260c48aeb7ce965e6ed276a116c00ae-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/gods-will-be-watching",
+    "release_date": "July 24, 2014"
+  },
+  {
+    "title": "Hell Yeah! Wrath of the Dead Rabbit",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/894817fbf4849edb675edb81a78c235d-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/hell-yeah!-wrath-of-the-dead-rabbit",
+    "release_date": "October 3, 2012"
+  },
+  {
+    "title": "Restaurant Empire II",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/2e51568c9f66165dee0fda098efaa4aa-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/restaurant-empire-ii",
+    "release_date": "May 26, 2009"
+  },
+  {
+    "title": "Alien Breed 3: Descent",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/f47a7456681a32ab5920d8161925fa05-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/alien-breed-3-descent",
+    "release_date": "November 17, 2010"
+  },
+  {
+    "title": "Kholat",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/3/de130db8c0a793b67ac1f6da721ffb34-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/kholat",
+    "release_date": "June 9, 2015"
+  },
+  {
+    "title": "Sid Meier's Starships",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/9/cf1c9baa64fa9ed3be563653a19199fb-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/sid-meiers-starships",
+    "release_date": "March 12, 2015"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/c511a1671f4000ce7486bb165ac7f6fd-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/harry-potter-and-the-half-blood-prince",
+    "release_date": "June 30, 2009"
+  },
+  {
+    "title": "Zoo Tycoon 2: Endangered Species",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/3982cec47fc42e423f858cc3aff33dc0-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/zoo-tycoon-2-endangered-species",
+    "release_date": "October 19, 2005"
+  },
+  {
+    "title": "Redeemer",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/2/14cf7d6dd47dc65948f2d45dd2f183d5-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/redeemer",
+    "release_date": "August 1, 2017"
+  },
+  {
+    "title": "STRAFE",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/7/0afe42f20159a8122978bb71dd35e558-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/strafe",
+    "release_date": "May 9, 2017"
+  },
+  {
+    "title": "The Town of Light",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/4/1cb3a7ed452a6d2e0a9198a073972f40-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/the-town-of-light",
+    "release_date": "February 26, 2016"
+  },
+  {
+    "title": "Legend of Kay Anniversary",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/0/af3bd1020907c28384aa135ebf2b63b2-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/legend-of-kay-anniversary",
+    "release_date": "July 27, 2015"
+  },
+  {
+    "title": "Party Hard",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/6/61dd03f8940f72217db358ba237a6f74-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/party-hard",
+    "release_date": "August 25, 2015"
+  },
+  {
+    "title": "Batman: The Telltale Series",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/8/36c6b068ab1ec0db919d80a8f554c5cf-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/batman-the-telltale-series",
+    "release_date": "August 2, 2016"
+  },
+  {
+    "title": "Command & Conquer 4: Tiberian Twilight",
+    "meta_score": "64",
+    "img": "https://static.metacritic.com/images/products/games/1/e9149cc899cadcee9a1c95aacbcefb24-98.jpg",
+    "link": "https://www.metacritic.com/game/pc/command-conquer-4-tiberian-twilight",
+    "release_date": "March 16, 2010"
+  }
+]
