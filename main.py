@@ -11,7 +11,7 @@ url_template = 'https://www.metacritic.com/browse/games/score/metascore/all/pc/f
 
 # Define the number of pages to scrape
 num_pages = 53
-
+count = 0
 # Iterate through the pages
 for page in range(num_pages):
     url = url_template.format(page=page)
@@ -23,6 +23,8 @@ for page in range(num_pages):
     games = []
     first = True
     for item in soup.find_all('tr'):
+        count += 1
+        print(count)
         # print(item)
         if item.find('h3', text=True) is None:
             continue
